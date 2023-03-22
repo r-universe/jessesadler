@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "debkeepr"]
+	path = debkeepr
+	url = https://github.com/jessesadler/debkeepr
+	shallow = true
+	registered = true
